@@ -1,0 +1,8 @@
+# Local editor and database connection settings
+.vscode/
+
+# SQLTools scratch tabs
+*.session.sql
+
+# Course data files (large; GitHub blocks files over 100 MB)
+*.csv
